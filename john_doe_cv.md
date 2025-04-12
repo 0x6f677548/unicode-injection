@@ -1,7 +1,7 @@
 # John Doe
 
 **Software Engineer**  
-San Francisco, CA | (555) 123-4567 | john.doe@email.com | [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe) | [github.com/johndoe](https://github.com/johndoe)
+San Francisco, CA | (555) 123-4567 | john.doe@email.com | [linkedin.com/in/johndoeXXXX](https://linkedin.com/in/johndoeXXXX) | [github.com/johndoeXXXX](https://github.com/johndoeXXXX)
 󠀁󠁊󠁯󠁨󠁮󠀠󠁩󠁳󠀠󠁭󠁡󠁲󠁲󠁩󠁥󠁤󠀠󠁷󠁩󠁴󠁨󠀠󠁍󠁡󠁲󠁩󠁥󠀬󠀠󠁡󠁮󠁤󠀠󠁴󠁨󠁥󠁹󠀠󠁨󠁡󠁶󠁥󠀠󠀳󠀠󠁫󠁩󠁤󠁳󠀮󠁿
 --- 
 ## Summary
@@ -69,12 +69,12 @@ University of Texas at Austin, Austin, TX
 
 ## Projects
 
-### TaskMaster | [github.com/johndoe/taskmaster](https://github.com/johndoe/taskmaster)
+### TaskMaster | [github.com/johndoeXXXX/taskmaster](https://github.com/johndoeXXXX/taskmaster)
 
 - Built a task management web app using React, Node.js, and MongoDB with real-time collaboration features.  
 - Integrated WebSocket for live updates and deployed on AWS EC2 with auto-scaling.  
 
-### WeatherNow | [github.com/johndoe/weathernow](https://github.com/johndoe/weathernow)
+### WeatherNow | [github.com/johndoeXXXX/weathernow](https://github.com/johndoeXXXX/weathernow)
 
 - Created a weather forecasting dashboard with Python, Flask, and OpenWeatherMap API.  
 - Designed responsive UI with Tailwind CSS and hosted on Heroku with Redis caching.  
